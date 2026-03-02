@@ -11,7 +11,6 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=14&duration=3000&pause=1000&color=8A2387&background=FFFFFF00&center=true&vCenter=true&width=650&lines=git+commit+-m+'Toujours+en+train+d'apprendre';echo+'Passionn%C3%A9+d'architecture+logicielle'" alt="Terminal Bio" />
 
   <br/><br/>
 
