@@ -46,11 +46,13 @@
 
   <br/>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mushurelie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent" height="160" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushurelie&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent" height="160" alt="languages graph" />
-  </div>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mushurelie&theme=tokyonight&hide_border=true&background=transparent" alt="GitHub Streak" />
+    
+   <br/>
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mushurelie&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=1a1b27&area=true&hide_border=true" alt="Activity Graph" />
+  </div>
   <br/>
 
   <a href="https://github.com/Mushurelie">
