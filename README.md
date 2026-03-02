@@ -52,7 +52,6 @@
   <a href="https://github.com/Mushurelie">
     <img src="https://img.shields.io/badge/GitHub-My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://guns.lol/Mushurelie">
     <img src="https://img.shields.io/badge/Guns.lol-My_Bio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
