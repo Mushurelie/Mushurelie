@@ -43,8 +43,10 @@ https://github.com/devicons/devicon/blob/v2.17.0/icons/rust/rust-original.svg<di
   <br/>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mushurelie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushurelie&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="languages graph" />
+    <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mushurelie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushurelie&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent" height="170" alt="languages graph" />
+</div>
   </div>
 
   <br/>
