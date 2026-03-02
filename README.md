@@ -1,4 +1,4 @@
-<div align="center">
+https://github.com/devicons/devicon/blob/v2.17.0/icons/rust/rust-original.svg<div align="center">
 
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20🕹️&animation=fadeIn&type=waving&color=gradient&height=120&section=header"/>
 
@@ -34,7 +34,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/rust/rust-original.svg" alt="rust" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/>
     <br/>
