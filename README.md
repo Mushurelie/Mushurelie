@@ -11,9 +11,6 @@
 
   <br/>
 
-
-  <br/><br/>
-
   <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mushurelie&theme=tokyonight&hide_border=true&background=transparent&fire=E94057&ring=E94057&currStreakNum=E94057" alt="GitHub Streak" />
   </div>
