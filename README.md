@@ -8,7 +8,7 @@
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=TON_USERNAME_ICI&label=Profile%20Views&color=blueviolet&style=flat" alt="compteur" />
+  <img src="https://komarev.com/ghpvc/?username=Mushurelie&label=Profile%20Views&color=blueviolet&style=flat" alt="compteur" />
 
   <br/><br/>
 
@@ -51,13 +51,13 @@
   <br/>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME_ICI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME_ICI&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Mushurelie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushurelie&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="languages graph" />
   </div>
 
   <br/>
 
-  <a href="https://github.com/TON_USERNAME_ICI">
+  <a href="https://github.com/Mushurelie">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="#">
