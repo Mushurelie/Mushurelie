@@ -3,16 +3,20 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20🕹️&animation=fadeIn&type=waving&color=gradient&height=120&section=header"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Polyglot+Coder+🌍;Always+Learning+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Fullstack+Developer+💻;Based+in+France+🇫🇷;Polyglot+Coder+🌍;Always+Learning+🚀" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=Mushurelie&label=Profile%20Views&color=blueviolet&style=flat" alt="compteur" />
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Mushurelie&label=Profile%20Views&color=blueviolet&style=flat" alt="compteur" />
+  </p>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Mushurelie&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15" />
 
   <br/><br/>
 
-  <h2>🚀 L'Arsenal Technique</h2>
+  <h2>🚀 Technical Arsenal</h2>
   
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua" width="50" height="50"/>
@@ -42,11 +46,18 @@
 
   <br/>
 
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mushurelie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent" height="160" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushurelie&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent" height="160" alt="languages graph" />
+  </div>
+
+  <br/>
+
   <a href="https://github.com/Mushurelie">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://guns.lol/Mushurelie">
-    <img src="https://img.shields.io/badge/Guns.lol-000000?style=for-the-badge&logo=about.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Guns.lol-2D2D2D?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
   
   <br/><br/>
