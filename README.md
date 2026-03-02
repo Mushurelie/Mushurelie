@@ -40,6 +40,9 @@ https://github.com/devicons/devicon/blob/v2.17.0/icons/rust/rust-original.svg<di
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" width="50" height="50"/>
   </p>
 
+  <br>
+  </br>
+
   <a href="https://github.com/Mushurelie">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
