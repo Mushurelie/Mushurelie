@@ -1,4 +1,4 @@
-https://github.com/devicons/devicon/blob/v2.17.0/icons/rust/rust-original.svg<div align="center">
+<div align="center">
 
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20🕹️&animation=fadeIn&type=waving&color=gradient&height=120&section=header"/>
 
@@ -30,7 +30,7 @@ https://github.com/devicons/devicon/blob/v2.17.0/icons/rust/rust-original.svg<di
     <br/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/rust/rust-original.svg" alt="rust" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/>
     <br/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
@@ -40,14 +40,13 @@ https://github.com/devicons/devicon/blob/v2.17.0/icons/rust/rust-original.svg<di
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" width="50" height="50"/>
   </p>
 
-  <br>
-  </br>
+  <br/>
 
   <a href="https://github.com/Mushurelie">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://guns.lol/Mushurelie">
+    <img src="https://img.shields.io/badge/Guns.lol-000000?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
   
   <br/><br/>
