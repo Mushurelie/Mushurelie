@@ -2,9 +2,8 @@
 
   <img src="https://capsule-render.vercel.app/api?section=header&type=waving&text=Mushurelie&animation=fadeIn&color=0:8A2387,100:E94057&fontSize=70&fontAlignY=35&fontColor=ffffff" width="100%"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=E94057&center=true&vCenter=true&width=500&lines=Fullstack+Dev+%F0%9F%92%BB;French+Coder+%F0%9F%87%AB%F0%9F%87%B7;Polyglot+%26+Curious+%F0%9F%8C%8D" alt="Typing SVG" />
-  </a>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=E94057&center=true&vCenter=true&width=600&lines=Fullstack+Dev+%F0%9F%92%BB;French+Coder+%F0%9F%87%AB%F0%9F%87%B7;Polyglot+%26+Curious+%F0%9F%8C%8D" alt="Subtitle" />
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Mushurelie&label=Vues&color=blueviolet&style=flat-square" alt="compteur" />
@@ -12,7 +11,7 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=14&duration=3000&pause=1000&color=8A2387&background=FFFFFF00&center=true&vCenter=true&width=600&lines=git+commit+-m+'Toujours+en+train+d'apprendre';echo+'Passionn%C3%A9+d'architecture+logicielle'" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=14&duration=3000&pause=1000&color=8A2387&background=FFFFFF00&center=true&vCenter=true&width=650&lines=git+commit+-m+'Toujours+en+train+d'apprendre';echo+'Passionn%C3%A9+d'architecture+logicielle'" alt="Terminal Bio" />
 
   <br/><br/>
 
