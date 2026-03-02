@@ -12,7 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=Mushurelie&label=Profile%20Views&color=blueviolet&style=flat" alt="compteur" />
   </p>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Mushurelie&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mushurelie&theme=tokyonight&hide_border=true&background=transparent" alt="GitHub Streak" />
 
   <br/><br/>
 
