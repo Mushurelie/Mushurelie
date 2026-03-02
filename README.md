@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&text=Mushurelie&animation=fadeIn&color=0:8A2387,100:E94057&fontSize=70&fontAlignY=40&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&text=Mushurelie&animation=fadeIn&color=0:8A2387,100:E94057&fontSize=70&fontAlignY=45&fontColor=ffffff" width="100%"/>
 
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=E94057&center=true&vCenter=true&width=600&lines=Fullstack+Dev+%F0%9F%92%BB;French+Coder+%F0%9F%87%AB%F0%9F%87%B7;Polyglot+%26+Curious+%F0%9F%8C%8D" alt="Subtitle" />
