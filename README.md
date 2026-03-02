@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&text=Mushurelie&animation=fadeIn&color=0:8A2387,100:E94057&fontSize=70&fontAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&text=Mushurelie&animation=fadeIn&color=0:8A2387,100:E94057&fontSize=70&fontAlignY=35&fontColor=ffffff" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=E94057&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%F0%9F%92%BB;French+Coder+%F0%9F%87%AB%F0%9F%87%B7;Polyglot+%26+Curious+%F0%9F%8C%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=E94057&center=true&vCenter=true&width=500&lines=Fullstack+Dev+%F0%9F%92%BB;French+Coder+%F0%9F%87%AB%F0%9F%87%B7;Polyglot+%26+Curious+%F0%9F%8C%8D" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -16,16 +16,11 @@
 
   <br/><br/>
 
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mushurelie&theme=tokyonight&hide_border=true&background=transparent&fire=E94057&ring=E94057&currStreakNum=E94057" alt="GitHub Streak" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushurelie&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent&langs_count=6" alt="languages graph" />
-      </td>
-    </tr>
-  </table>
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mushurelie&theme=tokyonight&hide_border=true&background=transparent&fire=E94057&ring=E94057&currStreakNum=E94057" alt="GitHub Streak" />
+  </div>
+  
+  <br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mushurelie&bg_color=1a1b27&color=E94057&line=E94057&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
