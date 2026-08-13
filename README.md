@@ -18,12 +18,12 @@
 
 ## 🚀 À propos de moi
 
-- 🔭 Je travaille actuellement sur **[Nom de ton projet actuel]**
-- 🌱 J'apprends en ce moment **[Technologie ou framework que tu étudies]**
-- 👯 Je cherche à collaborer sur **[Type de projet ou Open Source]**
-- 💬 Demandez-moi n'importe quoi sur **[Tes domaines d'expertise]**
-- 📫 Comment me joindre : **[Ton adresse email]**
-- ⚡ Fait amusant : **[Une anecdote sympa sur toi]**
+- 🔭 Je travaille actuellement sur **Durty Cloth Tool v2**
+- 🌱 J'apprends en ce moment **Le Développement web**
+- 👯 Je cherche à collaborer sur **X**
+- 💬 Demandez-moi n'importe quoi sur **Un projet FiveM**
+- 📫 Comment me joindre : **pro.mushurelie@gmail.com**
+- ⚡ Fait amusant : **J'ai commencé le dev en CM2**
 
 ---
 
