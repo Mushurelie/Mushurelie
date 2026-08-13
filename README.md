@@ -1,8 +1,8 @@
 <!-- En-tête avec une bannière (optionnel, remplace le lien par une image de ton choix) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Bienvenue%20sur%20mon%20profil%20!&fontSize=50&fontAlignY=38&desc=Développeur%20Passionné&descAlignY=51&descAlign=62" width="100%" />
 
-<h1 align="center">Salut 👋, je suis [Ton Prénom ou Pseudo]</h1>
-<h3 align="center">Un développeur basé en [Ta Ville/Ton Pays] spécialisé en [Ton domaine, ex: Développement Web / IA]</h3>
+<h1 align="center">Salut 👋, je suis Mushurelie</h1>
+<h3 align="center">Un développeur basé en France spécialisé en Développement fullstack</h3>
 
 <p align="center">
   <!-- Remplace les liens par les tiens -->
