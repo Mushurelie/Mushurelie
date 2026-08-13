@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://guns.lol/mushurelie" target="_blank">
-    <img src="https://img.shields.io/badge/gun.lol-151515?style=for-the-badge&logoColor=white" alt="gun.lol" />
+    <img src="https://img.shields.io/badge/guns.lol-151515?style=for-the-badge&logoColor=white" alt="gun.lol" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Durty Cloth Tool v2**
 - 🌱 I’m currently learning **Web Development**
-- 👯 I’m looking to collaborate on **X**
+- 👯 I’m looking to collaborate on **Nothing**
 - 💬 Ask me about **FiveM projects**
 - 📫 How to reach me: **pro.mushurelie@gmail.com**
 - ⚡ Fun fact: **I started coding in 5th grade**
