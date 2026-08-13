@@ -1,6 +1,3 @@
-<!-- En-tête avec une bannière (optionnel, remplace le lien par une image de ton choix) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Bienvenue%20sur%20mon%20profil%20!&fontSize=50&fontAlignY=38&desc=Développeur%20Passionné&descAlignY=51&descAlign=62" width="100%" />
-
 <h1 align="center">Salut 👋, je suis Mushurelie</h1>
 <h3 align="center">Un développeur basé en France spécialisé en Développement fullstack</h3>
 
@@ -47,9 +44,6 @@
 
 <p align="center">
   <!-- N'OUBLIE PAS DE REMPLACER "TON_PSEUDO_GITHUB" par ton vrai pseudo -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mushurelie&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques de [Ton Pseudo]" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mushurelie&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques de Mushurelie" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushurelie&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
 </p>
-
-<!-- Ligne décorative de fin -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
