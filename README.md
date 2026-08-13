@@ -42,9 +42,7 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mushurelie&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Mushurelie's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushurelie&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  [![Mushurelie's Stats](https://github-readme-stats.vercel.app/api?username=Mushurelie&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/Mushurelie)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mushurelie&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/Mushurelie)
 </p>
