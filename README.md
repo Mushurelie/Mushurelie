@@ -47,8 +47,8 @@
 
 <p align="center">
   <!-- N'OUBLIE PAS DE REMPLACER "TON_PSEUDO_GITHUB" par ton vrai pseudo -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques de [Ton Pseudo]" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mushurelie&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques de [Ton Pseudo]" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushurelie&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
 </p>
 
 <!-- Ligne décorative de fin -->
